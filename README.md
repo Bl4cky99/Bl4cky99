@@ -7,7 +7,7 @@ In my free Time i like to work on FiveM Scripts and Projects.
 
 ## Past Projects
 [**YourPlace**](https://yourplace.zone) - A german GTA RolePlay Experience   
-**JustRP** - A german Hardcore RolePlay Experience
+**JustRP** - A german Hardcore GTA RolePlay Experience
 
 ## Contact Details
 *Comming soon*
