@@ -56,7 +56,7 @@ When I'm not wrestling with code:
 
 ---
 
-#### <p align="center"><i><code>Rooted in logic, growing through code.</code></i></p>
+<img width="100%" src="https://github-stats.bl4cky.de/profile.svg" alt="GitHub Profile Stats Aggregation"/>
 
 <!--
                    -`
