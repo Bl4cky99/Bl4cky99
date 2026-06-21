@@ -41,6 +41,7 @@ Driven by logic, fueled by plants, and always striving to write code that’s (h
 ### Some things I've built
 
 - **[caddy-redirector](https://github.com/Bl4cky99/caddy-redirector)** - Lightweight Caddy middleware to handle host and path redirects without the configuration headache.
+  **[ginkgo-format-action](https://github.com/Bl4cky99/ginkgo-format-action)** - Because raw Ginkgo output in CI deserves better. Renders JSON test reports into GitHub Actions step summaries with suite breakdown and failure details.
 - **[mocker](https://github.com/Bl4cky99/mocker)** - Stop waiting for the backend. Spin up realistic mock APIs from a simple config in seconds.
 - **[astro-create-portal](https://github.com/Bl4cky99/astro-create-portal)** - Bringing the familiar React `createPortal` logic to the Astro ecosystem.
 
